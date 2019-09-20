@@ -1,0 +1,4 @@
+---
+dependencies:
+  - { role: graphical }
+  - { role: net-tools }

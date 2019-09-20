@@ -1,0 +1,4 @@
+---
+- name: Install Wireshark
+  package:
+    name: wireshark
